@@ -1,6 +1,8 @@
 # Python Object Oriented Programming by Joe Marini course example
 # Understanding class inheritance
 
+# inderitance defines a way for a given class to inherit attributes and methods from one or more super classes
+# ------------------------------------------------------------------------------------------------------------
 
 class Book:
     def __init__(self, title, author, pages, price):
