@@ -2,6 +2,7 @@
 # Understanding class inheritance
 
 # inderitance defines a way for a given class to inherit attributes and methods from one or more super classes
+# this makes it easy to sentralize common functionality and data in one place
 # ------------------------------------------------------------------------------------------------------------
 
 class Book:
